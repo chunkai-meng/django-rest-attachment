@@ -1,0 +1,11 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+www/
+proj/media
+env
+.venv/
+.idea/
+.vscode/
